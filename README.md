@@ -13,13 +13,15 @@ Repositorio para la Actividad 1 - DSS
 1. Clona el repositorio:
 
     git clone https://github.com/tu-usuario/dss-docker-25.git
+   
     cd dss-docker-25
 
 
-2. Construye y levanta los contenedores con Docker Compose:
+3. Construye y levanta los contenedores con Docker Compose:
+
     docker-compose up --build
 
-3. Accede a la aplicación en tu navegador:
+4. Accede a la aplicación en tu navegador:
 
     http://localhost:8080
 
