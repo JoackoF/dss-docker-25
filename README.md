@@ -4,6 +4,7 @@ Repositorio para la Actividad 1 - DSS
 ## Configuración del Proyecto
 
 ### Prerrequisitos
+- WSL
 - Docker
 - Docker Compose
 
