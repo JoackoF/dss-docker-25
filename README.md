@@ -19,7 +19,7 @@ Repositorio para la Actividad 1 - DSS
 
 3. Construye y levanta los contenedores con Docker Compose:
 
-    docker-compose up --build
+    docker-compose up --build -d
 
 4. Accede a la aplicación en tu navegador:
 
