@@ -12,7 +12,7 @@ Repositorio para la Actividad 1 - DSS
 
 1. Clona el repositorio:
 
-    git clone https://github.com/tu-usuario/dss-docker-25.git
+    git clone https://github.com/JoackoF/dss-docker-25.git
    
     cd dss-docker-25
 
