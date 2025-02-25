@@ -6,11 +6,6 @@ error_reporting(E_ALL);
 include("db.php");
 session_start();
 
-if (isset($_SESSION['username'])) {
-    header("Location: dashboard.php");
-    exit();  
-}
-
 $error = '';  
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
